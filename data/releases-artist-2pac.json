@@ -1,0 +1,981 @@
+{
+  "releases": [
+    {
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "name": "United States"
+          },
+          "date": "1996"
+        }
+      ],
+      "date": "1996",
+      "barcode": "731452420411",
+      "quality": "normal",
+      "status": "Official",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": true,
+        "darkened": false,
+        "front": true,
+        "count": 11
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "asin": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "All Eyez on Me",
+      "packaging-id": null,
+      "packaging": null,
+      "id": "0b79f6fb-23f4-4cad-9729-68910e93f6df"
+    },
+    {
+      "packaging": null,
+      "packaging-id": null,
+      "id": "36187373-ac36-4690-895b-0cc526fea051",
+      "title": "Stop the Gunfight",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "asin": null,
+      "cover-art-archive": {
+        "count": 2,
+        "front": true,
+        "darkened": false,
+        "artwork": true,
+        "back": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "quality": "normal",
+      "barcode": "015095926821",
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "name": "United States",
+            "disambiguation": ""
+          },
+          "date": "1997-04-22"
+        }
+      ],
+      "date": "1997-04-22"
+    },
+    {
+      "status": "Official",
+      "quality": "normal",
+      "barcode": "765449239922",
+      "date": "1995-03-14",
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "name": "United States"
+          },
+          "date": "1995-03-14"
+        }
+      ],
+      "id": "37d89c1e-4f78-4116-ae56-48ee06b8f64b",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Me Against the World",
+      "asin": "B000005Z0K",
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": true,
+        "front": true,
+        "darkened": false,
+        "count": 3
+      }
+    },
+    {
+      "release-events": [
+        {
+          "date": "1995-03-14",
+          "area": {
+            "disambiguation": "",
+            "name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1995-03-14",
+      "barcode": "765449239915",
+      "quality": "normal",
+      "status": "Official",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": true,
+        "count": 8,
+        "darkened": false,
+        "front": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "asin": null,
+      "title": "Me Against the World",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging": "Gatefold Cover",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "id": "3dbc70e8-b3a3-4a39-a1b6-1d4a6a4c7440"
+    },
+    {
+      "disambiguation": "",
+      "asin": "B000006TJP",
+      "cover-art-archive": {
+        "count": 1,
+        "front": true,
+        "darkened": false,
+        "back": false,
+        "artwork": true
+      },
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "packaging-id": null,
+      "packaging": null,
+      "id": "47048976-12c7-4076-874f-fb186af2651b",
+      "title": "1 in 21: A Tupac Shakur Story",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "752211400123",
+      "quality": "normal",
+      "country": "AU",
+      "release-events": [
+        {
+          "date": "1997",
+          "area": {
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "AU"
+            ],
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+            "sort-name": "Australia",
+            "name": "Australia"
+          }
+        }
+      ],
+      "date": "1997",
+      "status": "Bootleg"
+    },
+    {
+      "date": "1995",
+      "country": "JP",
+      "release-events": [
+        {
+          "date": "1995",
+          "area": {
+            "disambiguation": "",
+            "name": "Japan",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "iso-3166-1-codes": [
+              "JP"
+            ]
+          }
+        }
+      ],
+      "quality": "normal",
+      "barcode": "4988029080547",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 3,
+        "darkened": false,
+        "front": true,
+        "back": true,
+        "artwork": true
+      },
+      "asin": null,
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "title": "Me Against the World",
+      "id": "50c741da-219a-4b25-8dbd-dd06abf866ef",
+      "packaging": null,
+      "packaging-id": null
+    },
+    {
+      "date": "1993-02-16",
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "name": "United States"
+          },
+          "date": "1993-02-16"
+        }
+      ],
+      "barcode": "049925060447",
+      "quality": "normal",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "front": true,
+        "darkened": false
+      },
+      "asin": "B000003AE9",
+      "disambiguation": "",
+      "title": "Strictly 4 My N.I.G.G.A.Z…",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "id": "5f0758f8-b503-4511-8a8b-8391d8e385f6",
+      "packaging-id": "c70b737a-0114-39a9-88f7-82843e54f906",
+      "packaging": "Cassette Case"
+    },
+    {
+      "id": "612ba2db-21dc-4970-9581-520708a67848",
+      "packaging": null,
+      "packaging-id": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Strictly 4 My N.I.G.G.A.Z…",
+      "asin": null,
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": false,
+        "count": 1,
+        "darkened": false,
+        "front": true
+      },
+      "status": "Official",
+      "quality": "normal",
+      "barcode": null,
+      "date": "1993",
+      "country": "JP",
+      "release-events": [
+        {
+          "area": {
+            "name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "sort-name": "Japan",
+            "disambiguation": ""
+          },
+          "date": "1993"
+        }
+      ]
+    },
+    {
+      "status": "Official",
+      "barcode": "075679220929",
+      "quality": "normal",
+      "date": "1993-02-15",
+      "country": "XE",
+      "release-events": [
+        {
+          "area": {
+            "name": "Europe",
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "sort-name": "Europe",
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "disambiguation": ""
+          },
+          "date": "1993-02-15"
+        }
+      ],
+      "id": "61b04947-dafe-4560-9e26-70be379acc59",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "title": "Strictly 4 My N.I.G.G.A.Z…",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "asin": "B000005Z0G",
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "darkened": false,
+        "count": 0
+      }
+    },
+    {
+      "status": "Official",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "1995",
+          "area": {
+            "name": "Canada",
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "disambiguation": ""
+          }
+        }
+      ],
+      "date": "1995",
+      "quality": "normal",
+      "barcode": "606949239923",
+      "title": "Me Against the World",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "id": "77d0906d-66c9-4869-92ad-4aefe7ce62c3",
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "count": 3,
+        "darkened": false,
+        "front": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "explicit",
+      "asin": "B000024Q78"
+    },
+    {
+      "barcode": "828766881127",
+      "quality": "normal",
+      "date": "1991",
+      "release-events": [
+        {
+          "area": {
+            "name": "Russia",
+            "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+            "iso-3166-1-codes": [
+              "RU"
+            ],
+            "sort-name": "Russia",
+            "disambiguation": ""
+          },
+          "date": "1991"
+        }
+      ],
+      "country": "RU",
+      "status": "Official",
+      "asin": null,
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": true,
+        "count": 7,
+        "darkened": false,
+        "front": true
+      },
+      "id": "7e39722c-500b-4e15-aa2b-805a0d1b74cf",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "title": "2Pacalypse Now"
+    },
+    {
+      "cover-art-archive": {
+        "count": 1,
+        "front": true,
+        "darkened": false,
+        "artwork": true,
+        "back": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "asin": "B00002652T",
+      "title": "All Eyez on Me",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": null,
+      "packaging": null,
+      "id": "8d2491b6-f77f-3ec2-9638-10c231663071",
+      "country": "XE",
+      "release-events": [
+        {
+          "area": {
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "sort-name": "Europe",
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "name": "Europe",
+            "disambiguation": ""
+          },
+          "date": "1996-04-29"
+        }
+      ],
+      "date": "1996-04-29",
+      "quality": "normal",
+      "barcode": "731452424921",
+      "status": "Official"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "darkened": false,
+        "count": 5,
+        "back": true,
+        "artwork": true
+      },
+      "asin": null,
+      "disambiguation": "explicit",
+      "title": "Me Against the World",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "id": "a5cf09e1-4f2a-4c1a-b977-2b14b1d63f49",
+      "packaging-id": "c70b737a-0114-39a9-88f7-82843e54f906",
+      "packaging": "Cassette Case",
+      "date": "1995",
+      "country": "CA",
+      "release-events": [
+        {
+          "area": {
+            "name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "sort-name": "Canada",
+            "disambiguation": ""
+          },
+          "date": "1995"
+        }
+      ],
+      "quality": "normal",
+      "barcode": "606949239947",
+      "status": "Official"
+    },
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "front": true,
+        "count": 9,
+        "back": true,
+        "artwork": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "asin": "B00000055E",
+      "title": "R U Still Down? [Remember Me]",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "id": "aab1d312-8526-42ed-b5b7-085c09e472a5",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "name": "United States"
+          },
+          "date": "1997-11-25"
+        }
+      ],
+      "country": "US",
+      "date": "1997-11-25",
+      "barcode": "012414162823",
+      "quality": "normal",
+      "status": "Official"
+    },
+    {
+      "status": "Official",
+      "date": "1993",
+      "release-events": [
+        {
+          "date": "1993",
+          "area": {
+            "disambiguation": "",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "name": "United States"
+          }
+        }
+      ],
+      "country": "US",
+      "barcode": "018777273718",
+      "quality": "normal",
+      "title": "Strictly 4 My N.I.G.G.A.Z…",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "id": "b4d88ad0-fa60-49f0-be6b-71fe779ba20b",
+      "packaging": null,
+      "packaging-id": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "front": true,
+        "darkened": false,
+        "count": 4
+      },
+      "asin": null,
+      "disambiguation": ""
+    },
+    {
+      "asin": null,
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": false,
+        "count": 1,
+        "front": true,
+        "darkened": false
+      },
+      "id": "b8551f25-b27b-4545-9af6-d886671ce99c",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "title": "Me Against the World",
+      "barcode": "606949239923",
+      "quality": "normal",
+      "date": "1996",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "sort-name": "Europe",
+            "name": "Europe",
+            "disambiguation": ""
+          },
+          "date": "1996"
+        }
+      ],
+      "country": "XE",
+      "status": "Official"
+    },
+    {
+      "title": "Me Against the World",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging": "Jewel Case",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "id": "bc9b1f4f-2a34-4c35-815d-1aaac0e8e060",
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "darkened": false,
+        "front": true,
+        "count": 18
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "asin": null,
+      "status": "Official",
+      "country": "XE",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "sort-name": "Europe",
+            "name": "Europe",
+            "disambiguation": ""
+          },
+          "date": "1995"
+        }
+      ],
+      "date": "1995",
+      "barcode": "765449239922",
+      "quality": "normal"
+    },
+    {
+      "status": null,
+      "release-events": [
+        {
+          "date": "1995",
+          "area": {
+            "name": "United States",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "disambiguation": ""
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1995",
+      "barcode": null,
+      "quality": "normal",
+      "title": "Me Against the World",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging": null,
+      "packaging-id": null,
+      "id": "c0c9ca00-a277-4bd9-afd1-fd315306e00a",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false,
+        "front": true
+      },
+      "status-id": null,
+      "disambiguation": "",
+      "asin": null
+    },
+    {
+      "date": "1993",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "1993"
+        }
+      ],
+      "country": "US",
+      "barcode": "",
+      "quality": "normal",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 10,
+        "front": true,
+        "darkened": false,
+        "back": true,
+        "artwork": true
+      },
+      "asin": null,
+      "disambiguation": "club edition",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "title": "Strictly 4 My N.I.G.G.A.Z…",
+      "id": "ca50a5c9-3588-429d-8383-8c2aabbec092",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case"
+    },
+    {
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "darkened": false,
+        "front": true,
+        "count": 3
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "disambiguation": "",
+      "asin": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Me Against the World",
+      "packaging": null,
+      "packaging-id": null,
+      "id": "cae475aa-b222-442f-8992-078940fbbc30",
+      "release-events": [
+        {
+          "date": "1996",
+          "area": {
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "name": "United States"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1996",
+      "barcode": "049925060928",
+      "quality": "normal",
+      "status": "Official"
+    },
+    {
+      "status": "Official",
+      "date": "1991-11-12",
+      "release-events": [
+        {
+          "date": "1991-11-12",
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "name": "United States",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "country": "US",
+      "barcode": "075679176745",
+      "quality": "normal",
+      "title": "2Pacalypse Now",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "id": "e9ff76f1-d474-4ad8-895a-708179d7977f",
+      "packaging-id": null,
+      "packaging": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "front": true,
+        "count": 1,
+        "back": false,
+        "artwork": true
+      },
+      "asin": null,
+      "disambiguation": ""
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 4,
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "back": true
+      },
+      "asin": "B000003AE8",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Strictly 4 My N.I.G.G.A.Z…",
+      "id": "ebbe0c14-7ede-4cd1-9236-19717b6ade9c",
+      "packaging": "Jewel Case",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "date": "1993-02-16",
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "disambiguation": ""
+          },
+          "date": "1993-02-16"
+        }
+      ],
+      "quality": "normal",
+      "barcode": "049925060423",
+      "status": "Official"
+    },
+    {
+      "id": "eebe2f67-510f-4a84-bcf7-a2ca0820a52c",
+      "packaging-id": null,
+      "packaging": null,
+      "title": "2Pacalypse Now",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "asin": "B000091N3Y",
+      "disambiguation": "",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "darkened": false,
+        "count": 13,
+        "back": true,
+        "artwork": true
+      },
+      "status": "Official",
+      "barcode": "075679176721",
+      "quality": "normal",
+      "date": "1991-11-12",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1991-11-12",
+          "area": {
+            "disambiguation": "",
+            "name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States"
+          }
+        }
+      ]
+    },
+    {
+      "status": "Official",
+      "quality": "normal",
+      "barcode": "731452420428",
+      "date": "1996-02-13",
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "name": "United States"
+          },
+          "date": "1996-02-13"
+        }
+      ],
+      "id": "f5e7ddad-e38e-4621-9173-6bad2f126c33",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "title": "All Eyez on Me",
+      "asin": "B00000163G",
+      "disambiguation": "explicit",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "darkened": false,
+        "count": 57,
+        "back": true,
+        "artwork": true
+      }
+    },
+    {
+      "status": "Official",
+      "barcode": null,
+      "quality": "normal",
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "name": "United States",
+            "disambiguation": ""
+          },
+          "date": "1993"
+        }
+      ],
+      "date": "1993",
+      "packaging-id": null,
+      "packaging": null,
+      "id": "f6c04e71-2c34-4555-b9a4-1b3bbe2d58dc",
+      "title": "Strictly 4 My N.I.G.G.A.Z…",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "asin": null,
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "darkened": false,
+        "count": 0
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    }
+  ],
+  "release-count": 172,
+  "release-offset": 0
+}

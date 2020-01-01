@@ -1,0 +1,291 @@
+{
+  "id": "3dbc70e8-b3a3-4a39-a1b6-1d4a6a4c7440",
+  "disambiguation": "",
+  "asin": null,
+  "title": "Me Against the World",
+  "quality": "normal",
+  "barcode": "765449239915",
+  "cover-art-archive": {
+    "darkened": false,
+    "count": 8,
+    "artwork": true,
+    "back": true,
+    "front": true
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "status": "Official",
+  "country": "US",
+  "date": "1995-03-14",
+  "packaging": "Gatefold Cover",
+  "relations": [
+    {
+      "type": "discogs",
+      "attribute-ids": {},
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "url": {
+        "resource": "https://www.discogs.com/release/1189666",
+        "id": "560553c1-4299-4a22-86bf-17498b16a14a"
+      },
+      "direction": "forward",
+      "ended": false,
+      "target-type": "url"
+    }
+  ],
+  "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "release-events": [
+    {
+      "area": {
+        "sort-name": "United States",
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "disambiguation": "",
+        "name": "United States"
+      },
+      "date": "1995-03-14"
+    }
+  ],
+  "media": [
+    {
+      "position": 1,
+      "format": "12\" Vinyl",
+      "track-count": 8,
+      "track-offset": 0,
+      "title": "",
+      "tracks": [
+        {
+          "number": "A1",
+          "length": 99000,
+          "position": 1,
+          "id": "c96ceaf7-7d82-49f4-9ceb-365450b83a24",
+          "title": "Intro",
+          "recording": {
+            "id": "bbda523b-bcb0-42fe-b893-4e0783cceb96",
+            "title": "Intro",
+            "disambiguation": "",
+            "video": false,
+            "length": 100226
+          }
+        },
+        {
+          "number": "A2",
+          "length": 242000,
+          "position": 2,
+          "id": "fdb618e5-c700-405f-8e31-b26ff4480a48",
+          "title": "If I Die 2nite",
+          "recording": {
+            "length": 241800,
+            "video": false,
+            "disambiguation": "",
+            "id": "1f91d2c7-536f-40d6-889d-cc3cc70ab4a6",
+            "title": "If I Die 2nite"
+          }
+        },
+        {
+          "position": 3,
+          "number": "A3",
+          "length": 279000,
+          "id": "f208cc82-6bbb-4df8-96f1-852766fa1262",
+          "title": "Me Against the World",
+          "recording": {
+            "length": 280733,
+            "video": false,
+            "id": "5f2b51b1-eee9-4c5f-b3fe-5ada85237e54",
+            "disambiguation": "",
+            "title": "Me Against the World"
+          }
+        },
+        {
+          "length": 239000,
+          "number": "A4",
+          "position": 4,
+          "recording": {
+            "title": "So Many Tears",
+            "id": "d4088469-6d38-47b6-99b4-67a34ea75704",
+            "disambiguation": "",
+            "length": 239000,
+            "video": false
+          },
+          "title": "So Many Tears",
+          "id": "dd0c1a5b-daa7-419f-b3af-b8090fd4a763"
+        },
+        {
+          "id": "95e9487b-33d9-4f50-b08b-deed6bc96150",
+          "title": "Temptations",
+          "recording": {
+            "length": 300533,
+            "video": false,
+            "disambiguation": "",
+            "id": "491f1c2c-b551-477a-9555-56968601ce6a",
+            "title": "Temptations"
+          },
+          "number": "A5",
+          "length": 300000,
+          "position": 5
+        },
+        {
+          "number": "B1",
+          "length": 292000,
+          "position": 6,
+          "title": "Young Niggaz",
+          "id": "15dd62e0-1131-4725-a16f-16c6f561e031",
+          "recording": {
+            "video": false,
+            "length": 293333,
+            "id": "8608425d-a066-4f3c-929a-811e826d0aa2",
+            "disambiguation": "",
+            "title": "Young Niggaz"
+          }
+        },
+        {
+          "id": "2c9ae3cb-942d-4bb1-8c74-745e67a2a72b",
+          "title": "Heavy in the Game",
+          "recording": {
+            "id": "4991bde9-8cc0-4c0d-9ce1-8eab3f3da9f8",
+            "disambiguation": "",
+            "title": "Heavy in the Game",
+            "length": 263826,
+            "video": false
+          },
+          "number": "B2",
+          "length": 262000,
+          "position": 7
+        },
+        {
+          "length": 270000,
+          "number": "B3",
+          "position": 8,
+          "recording": {
+            "title": "Lord Knows",
+            "id": "b4b8e983-addf-404f-afa8-808d766739b3",
+            "disambiguation": "",
+            "length": 271600,
+            "video": false
+          },
+          "title": "Lord Knows",
+          "id": "8b4f9ed8-699b-464e-a3f3-37ac43fa1093"
+        }
+      ],
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+    },
+    {
+      "track-count": 7,
+      "track-offset": 0,
+      "tracks": [
+        {
+          "position": 1,
+          "number": "C1",
+          "length": 278000,
+          "id": "d88cc41e-5e10-4d30-aa2a-06ee124e2a3d",
+          "title": "Dear Mama",
+          "recording": {
+            "disambiguation": "",
+            "id": "90851363-85ec-4649-ae15-47547a1eb3db",
+            "title": "Dear Mama",
+            "length": 279840,
+            "video": false
+          }
+        },
+        {
+          "position": 2,
+          "length": 293000,
+          "number": "C2",
+          "recording": {
+            "id": "4913a03e-c3eb-4f65-b377-5718f11a4d42",
+            "disambiguation": "",
+            "title": "It Ain’t Easy",
+            "video": false,
+            "length": 293960
+          },
+          "id": "8e4637c5-890f-44a1-9ad6-ed8cc7f1195b",
+          "title": "It Ain’t Easy"
+        },
+        {
+          "length": 344000,
+          "number": "C3",
+          "position": 3,
+          "recording": {
+            "id": "b3f894cd-1db1-4582-adcb-78f144d18ff4",
+            "disambiguation": "",
+            "title": "Can U Get Away",
+            "length": 345800,
+            "video": false
+          },
+          "title": "Can U Get Away",
+          "id": "6aba4e80-779e-4432-9b49-782068ede701"
+        },
+        {
+          "number": "D1",
+          "length": 279000,
+          "position": 4,
+          "id": "dbb22d7e-897f-4631-9722-a79b39fcfc2e",
+          "title": "Old School",
+          "recording": {
+            "disambiguation": "",
+            "id": "5d85d416-4e55-4aed-b57c-17c77b27c211",
+            "title": "Old School",
+            "video": false,
+            "length": 280533
+          }
+        },
+        {
+          "recording": {
+            "disambiguation": "",
+            "id": "d352b76a-99a6-4810-a2b9-e1646701e64d",
+            "title": "Fuck the World",
+            "length": 253706,
+            "video": false
+          },
+          "id": "8337964d-73cc-4d52-8a56-ed2533811938",
+          "title": "Fuck the World",
+          "position": 5,
+          "length": 252000,
+          "number": "D2"
+        },
+        {
+          "position": 6,
+          "number": "D3",
+          "length": 246000,
+          "title": "Death Around the Corner",
+          "id": "024189c1-3c39-4f37-839b-10e4c903de36",
+          "recording": {
+            "video": false,
+            "length": 247226,
+            "title": "Death Around the Corner",
+            "id": "7c6b3839-12ea-41cd-bb7d-434bc016d2c1",
+            "disambiguation": ""
+          }
+        },
+        {
+          "number": "D4",
+          "length": 271000,
+          "position": 7,
+          "title": "Outlaw",
+          "id": "22cdc0ac-adef-4507-9bcb-50dad8bfaea4",
+          "recording": {
+            "length": 272573,
+            "video": false,
+            "disambiguation": "",
+            "id": "2a71d729-e483-4af8-8821-81287310a321",
+            "title": "Outlaw"
+          }
+        }
+      ],
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "title": "",
+      "format": "12\" Vinyl",
+      "position": 2
+    }
+  ]
+}

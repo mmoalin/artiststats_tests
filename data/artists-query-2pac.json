@@ -1,0 +1,797 @@
+{
+  "created": "2019-12-29T17:12:27.601Z",
+  "count": 28,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "92a4d187-168d-4422-8d04-d194bea5da47",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "name": "Tupac Shakur",
+      "sort-name": "Shakur, Tupac",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "2Pac",
+      "sort-name": "2Pac",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1cea068b-1894-4711-9578-47d9cfff5d84",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "East Harlem",
+        "sort-name": "East Harlem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cd22d0ba-c79b-45b3-a8e0-617b240df5f0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Las Vegas",
+        "sort-name": "Las Vegas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rapper",
+      "ipis": [
+        "00241664772"
+      ],
+      "isnis": [
+        "0000000120260457"
+      ],
+      "life-span": {
+        "begin": "1971-06-16",
+        "end": "1996-09-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "MC New York",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "MC New York",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shakur, Tupac",
+          "name": "Tupac Shakur",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Crooks, Lesane Parish",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lesane Parish Crooks",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1971-06-16",
+          "end-date": "1972"
+        },
+        {
+          "sort-name": "Shakur, Tupac Amaru",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Tupac Amaru Shakur",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1972",
+          "end-date": "1996-09-13"
+        },
+        {
+          "sort-name": "2 PAC",
+          "name": "2 PAC",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TuPac",
+          "name": "TuPac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "2pac (Makaveli the Don)",
+          "name": "2pac (Makaveli the Don)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 5,
+          "name": "hip hop"
+        },
+        {
+          "count": 4,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 2,
+          "name": "west coast hip-hop"
+        },
+        {
+          "count": 0,
+          "name": "pop rap"
+        },
+        {
+          "count": 2,
+          "name": "g-funk"
+        },
+        {
+          "count": -2,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": 5,
+          "name": "west coast hip hop"
+        },
+        {
+          "count": -2,
+          "name": "above the rim"
+        },
+        {
+          "count": 0,
+          "name": "death by murder"
+        },
+        {
+          "count": 0,
+          "name": "death by gun"
+        },
+        {
+          "count": 0,
+          "name": "2 pac"
+        },
+        {
+          "count": 2,
+          "name": "conscious hip hop"
+        },
+        {
+          "count": 4,
+          "name": "political hip hop"
+        },
+        {
+          "count": 0,
+          "name": "temor a la muerte"
+        },
+        {
+          "count": -1,
+          "name": "unil the end of time"
+        }
+      ]
+    },
+    {
+      "id": "cc03a7ff-3fbd-422f-ba96-0069c626f7a1",
+      "score": 34,
+      "name": "Shakur",
+      "sort-name": "Shakur",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "903c9862-59b7-45c6-ad32-161c06ebf11c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "name": "Tupac Peralta",
+      "sort-name": "Tupac Peralta",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "73378fd4-3f11-4aad-9b3b-e90515c1da4e",
+      "score": 31,
+      "name": "Tupac Amaru",
+      "sort-name": "Amaru, Tupac",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2ea06529-872c-493c-9f64-a2e5f16d1c8f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "name": "Tupac Mantilla",
+      "sort-name": "Mantilla, Tupac",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "723ce55f-f905-496c-bf15-f3cfbe2c9e94",
+      "score": 29,
+      "name": "Mel Shakur",
+      "sort-name": "Mel Shakur",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d0d172ea-89ac-4227-8aa7-3082343f1a33",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Mopreme Shakur",
+      "sort-name": "Shakur, Mopreme",
+      "gender": "male",
+      "life-span": {
+        "begin": "1969",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Wycked",
+          "name": "Wycked",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mopreme",
+          "name": "Mopreme",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Williams, Maurice",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Maurice Williams",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maurice Hardy",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Maurice Hardy",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harding, Maurice",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Maurice Harding",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mopreme Hardy",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mopreme Hardy",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "3fe581c8-7ef0-4c89-b6e4-a3e88cb92b93",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Assata Shakur",
+      "sort-name": "Shakur, Assata",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1947-07-16",
+        "ended": null
+      }
+    },
+    {
+      "id": "e0238c28-fed5-4bf9-9293-fa80999ec6be",
+      "score": 29,
+      "name": "Sanyika Shakur",
+      "sort-name": "Shakur, Sanyika",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ee59d4db-26fb-459f-8b5f-80da22abf270",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Air Shakur",
+      "sort-name": "Air Shakur",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fb556538-86d4-445e-9075-acf0cb00522b",
+      "score": 29,
+      "name": "Sincere Shakur",
+      "sort-name": "Shakur, Sincere",
+      "area": {
+        "id": "8c2196d9-b7be-4051-90d1-ac81895355f1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Illinois",
+        "sort-name": "Illinois",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "30073775-b4b4-4a12-9f2b-d27cdacab1bb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "DJ Shakur",
+      "sort-name": "Shakur, DJ",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d7f50d59-393a-4486-beb7-51f0d8ef6e3d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Sankiya Shakur",
+      "sort-name": "Shakur, Sankiya",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1963-11-13",
+        "ended": null
+      }
+    },
+    {
+      "id": "3808abcb-ffd6-47ae-9cdd-fb8b62e26061",
+      "score": 29,
+      "name": "Ser Shakur",
+      "sort-name": "Ser Shakur",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bb53630b-8afb-42eb-85d9-45c0961cd716",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Ash Shakur",
+      "sort-name": "Shakur, Ash",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "103a46d9-9759-423b-93d1-050c88385291",
+      "score": 29,
+      "name": "Bashir Shakur",
+      "sort-name": "Shakur, Bashir",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "63c34959-11e9-4813-9a88-9c175542fe6e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Shakur Green",
+      "sort-name": "Green, Shakur",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cd48a889-bbd1-4150-9144-5b7db0ba1c85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Afeni Shakur",
+      "sort-name": "Shakur, Afeni",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "31be94e4-7752-4a18-9591-7e2a9e09137f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lumberton",
+        "sort-name": "Lumberton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d5358f74-9437-491b-b95d-c266cf9dee5c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sausalito",
+        "sort-name": "Sausalito",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000116022034"
+      ],
+      "life-span": {
+        "begin": "1947-01-10",
+        "end": "2016-05-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Williams, Alice Faye",
+          "name": "Alice Faye Williams",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "429acb19-209d-41b7-8213-d8eaf0e04234",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Hassan Shakur",
+      "sort-name": "Shakur, Hassan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shakur, J.J.",
+          "name": "J.J. Shakur",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b0621b91-9741-40cd-bffb-bb142b9a07e7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Miko Shakur",
+      "sort-name": "Miko Shakur",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f395dda9-8a09-4c48-8054-941b1257ae57",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Tucold",
+      "sort-name": "Tucold",
+      "gender": "male",
+      "begin-area": {
+        "id": "2054b43f-446c-45fd-b53e-f8bf23656dd1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montgomery",
+        "sort-name": "Montgomery",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "tu rooted from tupac shakur and cold describing his rap character",
+      "life-span": {
+        "begin": "1997-03-22",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "lil backbone"
+        },
+        {
+          "count": 1,
+          "name": "p2l ambition"
+        },
+        {
+          "count": 1,
+          "name": "p2l"
+        },
+        {
+          "count": 1,
+          "name": "lb young"
+        },
+        {
+          "count": 1,
+          "name": "tucold"
+        }
+      ]
+    },
+    {
+      "id": "a4c02c11-86f1-4a12-9871-53afc81aae63",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Túpac Amarulloa",
+      "sort-name": "Amarulloa, Túpac",
+      "gender": "male",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "411f07cd-cfb2-44a3-8f7a-9d4da31a0450",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San José",
+        "sort-name": "San José",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Costa Rica-born flautist in Belgium",
+      "life-span": {
+        "begin": "1975-07-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tupac Amarulloa",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Tupac Amarulloa",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Amaru Ulloa Valverde, Túpac",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Túpac Amaru Ulloa Valverde",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "54592f2e-01ef-4656-9b1f-7c25c278497d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 25,
+      "name": "Shakur M. Abdulla",
+      "sort-name": "Abdulla, Shakur M.",
+      "begin-area": {
+        "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cleveland",
+        "sort-name": "Cleveland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "percussion",
+      "life-span": {
+        "begin": "1940-03-22",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Weaver, Charles",
+          "name": "Charles Weaver",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abdulla, Shakur M.",
+          "name": "Shakur M. Abdulla",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abdullah, Shakur",
+          "name": "Shakur Abdullah",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fe13d09b-a1ea-42ec-9eb0-168373303a9f",
+      "score": 25,
+      "name": "Nzingha Shakur-ali",
+      "sort-name": "Shakur-ali, Nzingha",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}
