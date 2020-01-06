@@ -42,7 +42,7 @@ namespace ArtistStats.Test
             var json = TestHelper.GetFileData(filePath);
 
             var sut = new DeserializeJson<ArtistResults>();
-            
+
             ArtistResults artists = sut.Deserialize(json);
 
             Assert.Equal(28, artists.Count);
@@ -76,9 +76,21 @@ namespace ArtistStats.Test
             ReleaseResults releases = sut.Deserialize(json);
             bool releasesExist = releases.Count > 0;
             Assert.Equal(releasesExist, hasResults);
+            if (releasesExist)
+            {
+                for (int i = 0; i < releases.Releases.Count; i++)
+                {
+                    var cmd = ArtistStats_web.Commands.GetReleasesByArtistsIDAsync.FillTracksAsyncCommands(releases.Releases[i], new ArtistStats_web.Services.MusicStatService());
+                    var tracksCmd = cmd.ExecuteAsync();
+                    tracksCmd.Wait();
+                    var media = cmd.Release.Media;
+/*                    Assert.NotNull(cmd.Release.Media);
+                    Assert.NotNull(cmd.Release.Media[0].Tracks[0]);*/
+                }
+            }
+
             //TODO: add checks to compare IDs, counts, etc against what's in the file..
         }
-
         /*[Theory]
         [MemberData(nameof(GetLyricsTestData))]
         public void ParsesTrackLyrics(string filePath)
